@@ -24,8 +24,8 @@
 ### :woman_technologist: About Me :
 ### 👩‍💻 About myself: I am a programmer from Russia.
 
-
 . - 🔭 I'm learning programming in Pothon.
+
 🌱 I study robots and program on different boards.
 
 ⚡ In your free time, watch interesting articles about programming and robots.
