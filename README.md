@@ -24,7 +24,7 @@
 ### :woman_technologist: About Me :
 ### 👩‍💻 About myself: I am a programmer from Russia.
 
-. - 🔭 I'm learning programming in Pothon.
+. - 🔭 I'm learning programming in Python.
 
 🌱 I study robots and program on different boards.
 
@@ -46,3 +46,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrewfuntikov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewfuntikov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
