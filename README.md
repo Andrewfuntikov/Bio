@@ -21,11 +21,11 @@
 ### :woman_technologist: About Me :
 ### 👩‍💻 About myself: I am a programmer from Russia.
 
-. - 🔭 I'm learning programming in Python.
+. - 🔭Я учусь программированию на Python.
 
-🌱 I study robots and program on different boards.
+🌱Изучаю роботов и программы на разных досках.
 
-⚡ In your free time, watch interesting articles about programming and robots.
+⚡В свободное время смотрите интересные статьи о программировании и роботах.
 
 📫How to contact me: Telegram icon
 ### :hammer_and_wrench: Languages and Tools :
