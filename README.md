@@ -1,7 +1,7 @@
 # Bio
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="1000"/>
 </div>
 
 <div id="badges" align="center">
