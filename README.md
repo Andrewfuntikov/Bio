@@ -1,5 +1,4 @@
 # Bio
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="800"/>
 </div>
@@ -18,6 +17,7 @@
 </h1>  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwZWFzd2h3OWJjcjQ0ZGR6d3lndXYzNXRmbzU1dDRvZjE1NjF6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
 ### 👩‍💻 About myself: I am a programmer from Russia.
