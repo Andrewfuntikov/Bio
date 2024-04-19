@@ -19,9 +19,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwZWFzd2h3OWJjcjQ0ZGR6d3lndXYzNXRmbzU1dDRvZjE1NjF6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
-### 👩‍💻 About myself: I am a programmer from Russia.
+### 👩‍💻 About myself: Я программист из России.
 
-. - 🔭Я учусь программированию на Python.
+- 🔭Я учусь программированию на Python.
 
 🌱Изучаю роботов и программы на разных досках.
 
