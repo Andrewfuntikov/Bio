@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Andrewfuntikov&style=flat-square&color=blue" alt=""/>
