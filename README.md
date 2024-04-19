@@ -1,6 +1,6 @@
 # Bio
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhwOHk2ejYzeGQ5cnV6d296aDlsbDd4M25pd2hqYXN3OGlnMmhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://discord.com/channels/@me">
