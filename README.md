@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"/>
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Andrewfuntikov&style=flat-square&color=blue" alt=""/>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Andrewfuntikov&style=flat-square&color=blue" alt="" width="100"/>
 </div>
 <h1>
   Привет!
